@@ -1,4 +1,4 @@
-# Coffee Bean Classification Using Morphological and Textural Features
+# Coffee Bean Classification
 
 Download the dataset below to replicate the results csv
 
